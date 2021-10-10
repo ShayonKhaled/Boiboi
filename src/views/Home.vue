@@ -20,7 +20,7 @@
       
       <c-box w="sm">
 
-        <c-image src="https://i.ibb.co/0MdWLcR/undraw-Reading-book-re-kqpk.png" alt="cute" />
+        <c-image src="https://i.ibb.co/Sr6sXhH/undraw-Reading-book-re-kqpk-1.png" alt="Cute book reading character" />
       </c-box>
 
       <!--
