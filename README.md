@@ -1,6 +1,4 @@
-# chakra-demo
-
-## Project setup
+# Boiboi## Project setup
 ```
 yarn install
 ```
