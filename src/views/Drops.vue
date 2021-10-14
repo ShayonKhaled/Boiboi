@@ -34,23 +34,23 @@ components: {
           field: 'LastLoc',
         },
         {
-          label: 'Last Dropped On',
+          label: 'Last dropped on',
           field: 'LastDropped',
           type: 'date',
           dateInputFormat: 'yyyy-MM-dd',
           dateOutputFormat: 'MMM do yy',
         },
           {
-          label: 'Has anyone picked it up?',
+          label: 'Has anyone picked it up and let me know yet?',
           field: 'PickUp',
         }
       
       ],
       rows: [
-        { id:1, name:"Animal Farm by George Orwell", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-10-15", PickUp: "Not yet"},
-        { id:1, name:"Schoolgirl by Osamu Dazai", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-11-01", PickUp: "Not yet"},
-        { id:1, name:"The Archer by Paulo Coelho", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-11-15", PickUp: "Not yet"},
-        { id:1, name:"Zero to One by Peter Thielf", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-12-01", PickUp: "Not yet"},
+        { id:1, name:"Animal Farm by George Orwell", LastLoc: "Crimson Cup BD, Dhanmondi", LastDropped: "2021-10-14", PickUp: "Not yet"},
+       // { id:1, name:"Schoolgirl by Osamu Dazai", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-11-01", PickUp: "Not yet"},
+        //{ id:1, name:"The Archer by Paulo Coelho", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-11-15", PickUp: "Not yet"},
+        //{ id:1, name:"Zero to One by Peter Thielf", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-12-01", PickUp: "Not yet"},
       
     
       ],

@@ -11,6 +11,10 @@ Vue.use(VueMobileDetection)
 Vue.use(VueGoodTablePlugin);
 Vue.use(Chakra)
 
+
+
+
+
 Vue.config.productionTip = false
 
 new Vue({
