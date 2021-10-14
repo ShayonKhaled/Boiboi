@@ -47,7 +47,7 @@ components: {
       
       ],
       rows: [
-        { id:1, name:"Animal Farm by George Orwell", LastLoc: "Crimson Cup BD, Dhanmondi", LastDropped: "2021-10-14", PickUp: "Not yet"},
+        { id:1, name:"Animal Farm by George Orwell", LastLoc: "Gloria Jean's Coffee, Dhanmondi", LastDropped: "2021-10-14", PickUp: "Not yet"},
        // { id:1, name:"Schoolgirl by Osamu Dazai", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-11-01", PickUp: "Not yet"},
         //{ id:1, name:"The Archer by Paulo Coelho", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-11-15", PickUp: "Not yet"},
         //{ id:1, name:"Zero to One by Peter Thielf", LastLoc: "North End Coffee Roasters, Dhanmondi", LastDropped: "2021-12-01", PickUp: "Not yet"},
