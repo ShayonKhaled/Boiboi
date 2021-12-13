@@ -83,6 +83,7 @@
                   <option value="Schoolgirl by Osamu Dazai">Schoolgirl by Osamu Dazai</option>
                   <option value="The Archer by Paulo Coelho">The Archer by Paulo Coelho</option>
                   <option value="Zero to One by Peter Thielf">Zero to One by Peter Thielf</option>
+                  <option value="Inferno by Dan Brown">Inferno by Dan Brown</option>
 
 
                 </c-select>
