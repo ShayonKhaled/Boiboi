@@ -40,7 +40,7 @@
     </c-flex> 
     
     <c-flex justify="center">
-      <c-button  ref="btnRef" @click="isOpen =true"  variant-color="pink" w="250px" mb="10">Click here to tell me!</c-button>
+      <c-button  ref="btnRef" @click="isOpen =true"  variant-color="pink" w="250px" mb="10">Did you like it?</c-button>
     </c-flex>
     <c-box mx="auto" my="10" w="lg" >
   
