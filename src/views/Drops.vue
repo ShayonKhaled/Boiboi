@@ -52,7 +52,8 @@ components: {
         { id:3, name:"The Archer by Paulo Coelho", LastLoc: "Crimson Cup, Dhanmondi", LastDropped: "2021-12-2", PickUp: "Not yet"},
         { id:4, name:"Schoolgirl by Osamu Dazai", LastLoc: "Crimson Cup, Dhanmondi", LastDropped: "2021-12-07", PickUp: "Not yet"},
         { id:5, name:"Inferno by Dan Brown", LastLoc: "Crimson Cup, Dhanmondi (South) ", LastDropped: "2021-12-13", PickUp: "Yes, yaay!"},
-          
+        { id:6, name:"The $100 Startup", LastLoc: "Second Cup Coffee Company, Dhanmondi", LastDropped: "2022-02-23", PickUp: "Not yet"},
+
           
                    
 
