@@ -9,7 +9,7 @@
 
 🧐 Read how I built Boiboi [here](https://shayonkhaled.com/portfolio/boiboi-xyz/)
 
-👀 Check out the app [here](https://boiboi.netlify.app/about)! 
+👀 Check out the app [here](https://boiboi.netlify.app/)! 
 
 
 # Boiboi## Project setup
